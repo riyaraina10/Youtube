@@ -6,15 +6,14 @@ import Footer from "../components/footer";
 import ContactUs from "../components/contactUs";
 
 function HomePage() {
-  return (
-    <div className="App">
-      <NavBar />
-      <Home />
-      <HomeBottom />
-      <ContactUs />
-      <Footer />
-    </div>
-  );
+    return (
+        <div className="App">
+            <NavBar />
+            <Home />
+            <HomeBottom />
+            <ContactUs />
+        </div>
+    );
 }
 
 export default HomePage;
