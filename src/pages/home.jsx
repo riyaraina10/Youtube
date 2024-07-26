@@ -10,7 +10,6 @@ function HomePage() {
         <div className="App">
             <NavBar />
             <Home />
-            <HomeBottom />
             <ContactUs />
         </div>
     );
