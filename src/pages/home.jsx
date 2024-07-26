@@ -11,7 +11,6 @@ function HomePage() {
             <NavBar />
             <Home />
             <HomeBottom />
-            <ContactUs />
         </div>
     );
 }
